@@ -1,16 +1,54 @@
-# 💫 About Me:
-🚀 Passionate about Python development and actively engaged in coding projects.
-🤖 Exploring the exciting field of Machine Learning & Deep Learning.
-💡 Constantly learning and expanding my knowledge in AI, NLP, and Computer Vision.
-☁️ Working with Azure, AWS, and Cloud Technologies.
-📊 Interested in Data Science, Model Optimization, and AI-powered Dashboards.
+# 👋 Hey, I'm Laiba!  
+🚀 **AI Enthusiast | Machine Learning Developer | Researcher**  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Laiba 789&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Laiba 789&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba 789&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am passionate about **Machine Learning, Deep Learning, and AI**. Currently, I am:  
+- 🔬 **Researching Computer Vision & NLP** applications.  
+- 🤖 **Building AI-powered solutions** (Face Restoration, Disease Recognition, Chatbots).  
+- 📊 **Working on Data Science & Model Optimization** for real-world impact.  
+- 🚀 **Exploring LLMs, RAG, and Transformers** for cutting-edge AI applications.  
+
+📌 **Always Learning:** I keep expanding my knowledge in **Python, ML, Cloud, and AI Innovations**.  
+
+---
+
+## 🚀 **Featured Projects**  
+
+🔹 [**Kidney Disease Dashboard**](https://github.com/your-repo-link)  
+🔹 [**Mango Leaf Disease Recognition**](https://github.com/your-repo-link)  
+🔹 [**Face Restoration using GFPGAN**](https://github.com/your-repo-link)  
+🔹 [**Chatbot for Banking (RAG & LangChain)**](https://github.com/your-repo-link)  
+
+> 🌟 *Check out my GitHub repositories for more AI projects!*  
+
+---
+
+## 🔥 **Tech Stack & Tools**  
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+---
+
+## 📊 **GitHub Stats**  
+
+![](https://github-readme-stats.vercel.app/api?username=Laiba789&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Laiba789&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba789&theme=radical&hide_border=false&layout=compact)  
+
+---
+
+## ✍️ **Random Dev Quote**  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+## 🤝 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laiba-khalid-2858362b4/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://your-portfolio-link.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Laiba789)  
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -23,5 +61,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Laiba 789&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+🔗 **Always open to collaborations & AI discussions!** 🚀  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

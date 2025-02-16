@@ -45,7 +45,7 @@ I am passionate about **Machine Learning, Deep Learning, and AI**. Currently, I 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ## 🤝 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge)](https://your-portfolio-link.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Laiba789)  
 
